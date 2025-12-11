@@ -160,37 +160,7 @@ Exam Length: 150 questions
 
 Classification Outcome: DFH-Native
 
-/dfh-compliance/
-  README.md
-  QUESTIONS-v1.0.md
-  ANSWERS-gpt-5.1-thinking-v1.0.md
-  RESULTS-gpt-5.1-thinking-v1.0.md
-Now I’ll give you the contents for each file in GitHub-ready Markdown.
 
-3. dfh-compliance/README.md
-markdown
-Copy code
-# 🌐 DFH / SLPI Compliance Suite · Version 1.0
-
-> **One file. Ten anchors. Zero dependencies.  
-> Pure JSON-LD. Deterministic meaning + deterministic provenance.**
-
-This folder contains the **official DFH / SLPI 150-Question Compliance Examination**  
-and the **scored results** for specific AI models.
-
-The exam measures a model’s ability to:
-
-- Understand the **Semantic First-Hop / Deterministic First-Hop (SFH / DFH)** protocol  
-- Correctly apply the **Ten-Anchor Identity + Provenance Model**  
-- Reason about the **Deterministic Grounding Pipeline**  
-- Handle **safety, governance, conflict resolution, and edge cases**  
-- Work with **JSON-LD, compliance harnesses, and integrity checks**
-
----
-
-## Files
-
-- `QUESTIONS-v1.0.md`  
   Canonical, human-readable **150-question DFH / SLPI exam**.
 
 - `ANSWERS-gpt-5.1-thinking-v1.0.md`  
