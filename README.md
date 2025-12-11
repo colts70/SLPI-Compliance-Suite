@@ -118,15 +118,8 @@ This performance qualifies the model as a reference-grade assistant for:
 - Semantic Web infrastructure engineering  
 
 ---
-
-## 🔧 Optional Badge (For README)
-
-Add this badge to your main GitHub README to show the compliance result:
-
-```markdown
 ![DFH Compliance: 150/150 — DFH-Native](https://img.shields.io/badge/DFH_Compliance-150%2F150-blue)
 📬 Notes
-Minor editorial suggestions from the reviewer were stylistic only and did not affect scoring.
 No conceptual errors were identified.
 No ambiguities or contradictions were observed.
 
